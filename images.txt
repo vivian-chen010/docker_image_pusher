@@ -1,2 +1,2 @@
 
-vllm/vllm-openai:v0.7.3
+vllm/vllm-openai:vqwen25cl
