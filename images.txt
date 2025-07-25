@@ -1,1 +1,1 @@
-apache/superset-cache:3.10-slim-bookworm
+vllm/vllm-openai:0.8.5.post1
